@@ -1,3 +1,32 @@
 p {
-  color: blue;
+  color: white;
+  text-align:center;
 }
+
+div{
+  color:white;
+  
+  
+}
+
+body{background: #000}
+
+img{
+  border-radius:50px;
+}
+
+#dov{
+  display:flex;
+  justify-content:center;
+}
+
+#vod{display:flex;
+  justify-content:center;
+}
+
+#odv{
+  display:flex;
+  justify-content:center;
+}
+
+

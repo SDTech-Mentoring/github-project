@@ -15,16 +15,16 @@ img{
   border-radius:50px;
 }
 
-#dov{
+.developerImage{
   display:flex;
   justify-content:center;
 }
 
-#vod{display:flex;
+.developerName{display:flex;
   justify-content:center;
 }
 
-#odv{
+.developerInformation{
   display:flex;
   justify-content:center;
 }
